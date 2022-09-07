@@ -1,4 +1,5 @@
-# 3NCRYP73R Cracking default used passwords are too common now days by using guessing or by using some password lists to bruteforce against a username..
+# 3NCRYP73R
+Cracking default used passwords are too common now days by using guessing or by using some password lists to bruteforce against a username..
 so it just needed to encrypt your clear text passphrases into hased format..
 3NCRYP73R is a simple encryption tool that convert your passphrases into hased type formats..
 
